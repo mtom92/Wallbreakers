@@ -1,5 +1,5 @@
 var transpose = function(A) {
-var transpo=[], m=A.length , n=A[0].length;
+    var transpo=[], m=A.length , n=A[0].length;
 
     for(var a=0;a<n;a++){
         transpo[a]=[]
