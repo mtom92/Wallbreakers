@@ -19,6 +19,7 @@ var isValid = function(s) {
         }
     }
 
+  // comment
     return !stack.length
 
 };
