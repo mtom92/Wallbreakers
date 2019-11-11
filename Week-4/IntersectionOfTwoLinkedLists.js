@@ -1,4 +1,5 @@
 var getIntersectionNode = function(headA, headB) {
+  //changes
     var curA = headA,
         curB = headB,
         counter = 0
