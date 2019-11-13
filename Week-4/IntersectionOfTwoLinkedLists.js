@@ -1,5 +1,5 @@
 var getIntersectionNode = function(headA, headB) {
-  //changes
+  //changes made in a day
     var curA = headA,
         curB = headB,
         counter = 0
