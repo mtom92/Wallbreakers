@@ -19,7 +19,7 @@ var isValid = function(s) {
         }
     }
 
-  // comment
+  // comment this has to change 
     return !stack.length
 
 };
